@@ -1,3 +1,12 @@
 {
-  "products": []
+  "products": [
+    {
+      "id": "p08ta",
+      "sku": "1",
+      "name": "Apple iPhone 16 Pro Max (256 GB) – Titânio",
+      "stock": 15,
+      "cost": 5100,
+      "price": 10980.9
+    }
+  ]
 }
