@@ -98,7 +98,6 @@ export class ProdutoComponent implements OnInit {
 
   atualizar(objeto: Produto){
     this.produtoService.editar(objeto).subscribe(retorno => {
-      // this.utilService.success('Sucesso!', 'Registro gravado.');
       this.utilService.alertToastr('Registro gravado com sucesso')
       this.listarProdutos()
       this.typeAdd = false

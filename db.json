@@ -1,12 +1,20 @@
 {
   "products": [
     {
-      "id": "p08ta",
+      "id": "9hb5z",
       "sku": "1",
-      "name": "Apple iPhone 16 Pro Max (256 GB) – Titânio",
-      "stock": 15,
-      "cost": 5100,
-      "price": 10980.9
+      "name": "Iphone 16 Pro-Max",
+      "stock": 10,
+      "cost": 3200,
+      "price": 9800
+    },
+    {
+      "id": "04p5lk",
+      "sku": "2",
+      "name": "Neurodyn IBRAMED TENS ",
+      "stock": 5,
+      "cost": 215.12,
+      "price": 1050
     }
   ]
 }
